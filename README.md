@@ -401,8 +401,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Authors
 
-> _Add your team member names and GitHub profiles here_
-
 - **Developer** — [@Nahin](https://github.com/Nahin197)
 - **Developer** — [@Montasir](https://github.com/Irfanuzzaman-Montasir)
 - **Developer** — [@Imran](https://github.com/imran-bhuiyan)
