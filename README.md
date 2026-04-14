@@ -403,7 +403,11 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 > _Add your team member names and GitHub profiles here_
 
-- **Developer** — [@your-username](https://github.com/your-username)
+- **Developer** — [@Nahin](https://github.com/Nahin197)
+- **Developer** — [@Montasir](https://github.com/Irfanuzzaman-Montasir)
+- **Developer** — [@Imran](https://github.com/imran-bhuiyan)
+
+  
 
 ---
 
@@ -417,6 +421,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-<div align="center">
-  Made with ❤️ for University Volunteers
-</div>
+
